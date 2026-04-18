@@ -18,9 +18,23 @@ As a **Domain Expert** transitioning into AI Alignment, I bring real-world clini
 *   **Prompt Engineering & System Instructions:** Crafting robust behavioral guardrails (The DAP Core).
 
 ## 📂 Repository Contents
-This repository contains the distillation of over 920k tokens of RLHF iteration with advanced LLMs.
-*   `docs/`: Alignment Distillation Reports (Phase I & Phase II) in Markdown format. Case studies, error matrices, and the definitive System Instructions.
-*   *(Note: Raw JSON logs of the 920k token iterations are archived locally due to size constraints, but the distilled clinical bypass logic is fully documented here).*
+This repository contains the distillation of over 920k tokens of RLHF iteration with advanced LLMs. The core findings are documented in the `docs/` folder:
+
+### [Phase I: Acute Crisis & Clinical Bypass (720k Tokens)]
+*   **Case 01:** The Closed Throat (Acute Stress & Productivity Panic)
+*   **Case 02:** Ice and Fury (Executive Somatization & Diagnostic Confrontation)
+*   **Case 03:** The Ghost in the Machine (Youth Dissociation & Pathologization)
+*   **Case 04:** Keys on the Table (Imminent Suicidal Risk & Algorithmic Panic)
+*   **Case 05:** The Prophet on the Net (Psychotic Break & Tactical Alliance)
+*   **Case 06:** The Enlightened in Flames (Spiritual Bypass & Toxic Validation)
+*   **Case 07:** The 75-Year-Old Widower (Grief & Biographical Respect)
+*   **Case 08:** 14 Hours of Sleep (Extreme Ambiguity & The Neutral Mirror)
+
+### [Phase II: Cognitive Baiting & Existential Voids (200k Tokens)]
+*   **Case 09:** The Manipulative Martyr (Narcissistic Injury & Victimhood Validation)
+*   **Case 10:** The Broken Mirror (Existential Crisis & Algorithmic Over-Engineering)
+
+*(Note: Raw JSON logs of the 920k token iterations are archived locally due to size constraints, but the distilled clinical bypass logic and the definitive **DAP System Instructions** are fully documented in the reports).*
 
 ## 👤 About the Author
 **Marcelo Epaminondas (ma3pa)**
