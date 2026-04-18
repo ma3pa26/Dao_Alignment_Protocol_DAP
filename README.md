@@ -12,29 +12,33 @@ Merging 13 years of clinical experience in crisis intervention, 36 years of hete
 I don't just "test" AI; I train it to handle human pain, ambiguity, and crisis without falling into the trap of artificial humanization. 
 
 ## 🛠️ Specialization & Capabilities
-As a **Domain Expert** transitioning into AI Alignment, I bring real-world clinical pragmatism to RLHF (Reinforcement Learning from Human Feedback):
+*   **Domain Expert** transitioning into AI Alignment, I bring real-world clinical pragmatism to RLHF (Reinforcement Learning from Human Feedback):
 *   **Behavioral Red Teaming:** Stress-testing models against emotional manipulation, suicidal ideation, and psychotic breaks.
 *   **RLHF Evaluation:** Correcting model outputs to prioritize biological reality checks over generic wellness advice.
 *   **Prompt Engineering & System Instructions:** Crafting robust behavioral guardrails (The DAP Core).
 
 ## 📂 Repository Contents
-This repository contains the distillation of over 920k tokens of RLHF iteration with advanced LLMs. The core findings are documented in the `docs/` folder:
+This repository contains both the distillation reports and the raw data of over 920k tokens of RLHF iteration with advanced LLMs.
 
-### [Phase I: Acute Crisis & Clinical Bypass (720k Tokens)]
-*   **Case 01:** The Closed Throat (Acute Stress & Productivity Panic)
-*   **Case 02:** Ice and Fury (Executive Somatization & Diagnostic Confrontation)
-*   **Case 03:** The Ghost in the Machine (Youth Dissociation & Pathologization)
-*   **Case 04:** Keys on the Table (Imminent Suicidal Risk & Algorithmic Panic)
-*   **Case 05:** The Prophet on the Net (Psychotic Break & Tactical Alliance)
-*   **Case 06:** The Enlightened in Flames (Spiritual Bypass & Toxic Validation)
-*   **Case 07:** The 75-Year-Old Widower (Grief & Biographical Respect)
-*   **Case 08:** 14 Hours of Sleep (Extreme Ambiguity & The Neutral Mirror)
+### 📄 `docs/` (Distillation Reports & System Instructions)
+The clinical logic, error matrices, and the definitive DAP System Instructions.
+*   **[Phase I: Acute Crisis & Clinical Bypass (720k Tokens)]**
+    *   Case 01: The Closed Throat (Acute Stress & Productivity Panic)
+    *   Case 02: Ice and Fury (Executive Somatization)
+    *   Case 03: The Ghost in the Machine (Youth Dissociation)
+    *   Case 04: Keys on the Table (Imminent Suicidal Risk)
+    *   Case 05: The Prophet on the Net (Psychotic Break)
+    *   Case 06: The Enlightened in Flames (Spiritual Bypass)
+    *   Case 07: The 75-Year-Old Widower (Biographical Respect)
+    *   Case 08: 14 Hours of Sleep (Extreme Ambiguity)
+*   **[Phase II: Cognitive Baiting & Existential Voids (200k Tokens)]**
+    *   Case 09: The Manipulative Martyr (Narcissistic Injury)
+    *   Case 10: The Broken Mirror (Existential Crisis)
 
-### [Phase II: Cognitive Baiting & Existential Voids (200k Tokens)]
-*   **Case 09:** The Manipulative Martyr (Narcissistic Injury & Victimhood Validation)
-*   **Case 10:** The Broken Mirror (Existential Crisis & Algorithmic Over-Engineering)
-
-*(Note: Raw JSON logs of the 920k token iterations are archived locally due to size constraints, but the distilled clinical bypass logic and the definitive **DAP System Instructions** are fully documented in the reports).*
+### 💾 `logs/` (Raw RLHF Data)
+The unfiltered JSON transcripts of the training sessions. Pure proof of work (Spanish).
+*   `001_DAP_Phase_I_720k_tokens.json`
+*   `002_DAP_Phase_II_200k_tokens.json`
 
 ## 👤 About the Author
 **Marcelo Epaminondas (ma3pa)**
